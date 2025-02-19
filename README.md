@@ -14,7 +14,7 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ### 📈 Efficiency
-![Pie Chart](https://your-image-url.com/piechart.png)
+![Pie Chart]([https://your-image-url.com/piechart.png](https://files.oaiusercontent.com/file-JyZKnDFY9GxynTWeppuJ6a?se=2025-02-19T15%3A16%3A18Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D614b2ef4-2b11-4cfb-b3b3-ad6c598478c8&sig=VSitJku3ht/yMt8fLPyIc/RL9Jt9KyoBysDM0ipQSxs%3D))
 
 
 
