@@ -14,7 +14,7 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ### 📈 Efficiency
-![Efficiency Pie Chart](https://img.shields.io/static/v1?label=Efficiency&message=Frontend%2040%%20|%20Backend%2060%&color=blue)
+![Pie Chart](https://your-image-url.com/piechart.png)
 
 
 
